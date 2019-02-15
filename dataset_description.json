@@ -1,1 +1,16 @@
-{"Name":"Prospective Remembering","BIDSVersion":"1.0.2","Authors":["Lewis-Peacock, J.A., Cohen, J.D., & Norman, K.A."],"Funding":"National Institutes of Health (R01 MH069456)","ReferencesAndLinks":["https://www.sciencedirect.com/science/article/pii/S0028393216304055"]}
+{
+    "Name": "Prospective Remembering",
+    "License": "",
+    "Authors": [
+        "Lewis-Peacock, J.A., Cohen, J.D., & Norman, K.A.",
+        "Cohen, J.D."
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": "National Institutes of Health (R01 MH069456)",
+    "ReferencesAndLinks": [
+        "https://www.sciencedirect.com/science/article/pii/S0028393216304055"
+    ],
+    "DatasetDOI": "",
+    "BIDSVersion": "1.0.2"
+}
