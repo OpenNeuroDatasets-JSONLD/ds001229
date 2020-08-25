@@ -1,0 +1,6 @@
+filename	acq_time	block	cond
+func/sub-18_task-wm_run-01_bold.nii.gz	08:55:27.577500	1	WM
+func/sub-18_task-em_run-01_bold.nii.gz	09:06:28.920000	2	EM
+func/sub-16_task-wm_run-02_bold.nii.gz	09:17:39.245000	3	WM
+func/sub-16_task-em_run-02_bold.nii.gz	09:28:58.985000	4	EM
+anat/sub-18_T1w.nii.gz	08:31:28.135000	N/A	N/A
